@@ -76,15 +76,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BuingDavidTheStyle&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuingDavidTheStyle&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -98,11 +90,7 @@
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
-            </a></div>  
-
-<br/>  
-
-
+            </a></div>
 <br />
 
 ----
