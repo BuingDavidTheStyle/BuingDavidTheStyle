@@ -9,7 +9,7 @@
   
 
 - Speack French , 18y , Discord : Buinggamer  🍃  
-  
+Pas 100% Fini ! Mon README Peut Changer a tout moment ! // Not 100% Finished , My README can change anytime !
 
 <br/>  
 
